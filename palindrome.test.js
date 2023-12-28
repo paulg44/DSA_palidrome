@@ -5,7 +5,7 @@ const isPalindrome = require("./palindrome");
 
 // True Test
 test("is outcome true", () => {
-  expect(isPalindrome(121)).toBeTruthy();
+  expect(isPalindrome(1212)).toBeTruthy();
 });
 
 // False Test

@@ -8,7 +8,7 @@
 */
 
 // Variables to test
-let x = 123;
+let x = 121;
 
 var isPalindrome = function (x) {
   let xStr = x.toString();
@@ -23,6 +23,8 @@ var isPalindrome = function (x) {
 };
 
 console.log(isPalindrome(x));
+
+module.exports = isPalindrome;
 
 /* Failed Attempt
 - Create an array of x (!didn't work as expected!)

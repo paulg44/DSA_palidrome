@@ -6,7 +6,7 @@
 - Palindrome = A word, phrase, or sequence that reads the same backwards as forwards, e.g. madam or nurses run.
 - Current solution works on the leetcode website but I'm getting an error when running local.
 - Next steps
-  - fix local run error
+  - fix local run error ✅ Where the function is called I hadn't given it a parameter
   - add passing tests
   - break tests
   - add github actions
